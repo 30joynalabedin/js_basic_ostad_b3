@@ -11,7 +11,7 @@ console.log(fname);
 
 // Change the value of the "fname" variable to "Jane"
 fname = "Jane";
-
+ 
 // Print the updated value of the "fname" variable to the console
 console.log(fname);
 // In this example, we first declare a variable named "name" and assign it the value "John".We then print the value of the "name" variable to the console using the "console.log()" method.
